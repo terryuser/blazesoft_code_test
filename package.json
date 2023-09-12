@@ -1,5 +1,10 @@
 {
   "name": "blazesoft_code_test",
+  "author": {
+    "name": "Terry Lau",
+    "business email": "terrylhmwork@gmail.com",
+    "url": "https://terryuser.github.io/aboutme"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",

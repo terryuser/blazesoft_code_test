@@ -6,7 +6,7 @@ const normalizeHash = (hash: number, min: number, max: number) => {
 
 const hRange = [0, 360];
 const sRange = [0, 100];
-const lRange = [0, 100];
+const lRange = [10, 35];
 
 const getHashOfString = (str: string) => {
   let hash = 0;

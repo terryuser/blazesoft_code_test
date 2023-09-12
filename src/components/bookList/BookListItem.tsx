@@ -28,7 +28,7 @@ const BookListItem: FC<BookItemType> = ({
 
   const { removeBookById } = useBooks();
 
-  const randomHSL = generateHSL(name);
+  const randomHSL = generateHSL(id);
 
   return (
     <ListItem alignItems="flex-start">
